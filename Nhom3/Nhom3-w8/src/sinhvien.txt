@@ -1,0 +1,4 @@
+B18DCCN123;To lan an;19
+B18DCCN876;Le thi Thuy;20
+B18DCCN980;Vu trung tuan;21
+HH6543;Ngu dan;20
